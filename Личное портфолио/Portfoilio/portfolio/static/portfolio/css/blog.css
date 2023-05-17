@@ -1,0 +1,19 @@
+body {
+    margin: 30px
+}
+
+.myb {
+    text-align: center;
+}
+
+.cont {
+    background: #EDEDED;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
